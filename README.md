@@ -6,4 +6,4 @@ após isso o robô vira 0.65cm e vai em direção ao palco concluindo a missão 
 ![codigo 1](programacao1.PNG)
 
 ### código
-!(Código)[impressora_e_palco.llsp3]
+![Código](impressora_e_palco.llsp3)
