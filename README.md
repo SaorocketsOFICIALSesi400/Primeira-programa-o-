@@ -4,3 +4,6 @@ No início da programação podemos ver que o “Vitor” sai da sua área e mov
 após isso o robô vira 0.65cm e vai em direção ao palco concluindo a missão assim retornando para sua base. 
 ### imagem da progamação 
 ![codigo 1](programacao1.PNG)
+
+### código
+!(Código)[impressora_e_palco.llsp3]
